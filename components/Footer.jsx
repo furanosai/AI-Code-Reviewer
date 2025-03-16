@@ -3,15 +3,13 @@ import React from "react";
 import Link from "next/link";
 import { FaFacebook, FaLinkedin, FaGithub, FaInstagram } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
-import { Button } from "./ui/button";
 
 const Footer = () => {
-  const emailBody = encodeURIComponent("Hey, hi Vinayak Gore, I am...");
 
   const socialLinks = [
     {
       icon: <FaInstagram className="w-full h-full" />,
-      link: `mailto:vvgore2677@gmail.com?subject=Contact%20from%20Stock%20Manager&body=${emailBody}`,
+      link: `https://www.instagram.com/vinugoredev?utm_source=qr&igsh=cjBrcjNuY21zcWw2`,
     },
     {
       icon: <FaXTwitter className="w-full h-full" />,
