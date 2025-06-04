@@ -54,7 +54,7 @@ const Footer = () => {
                 target="_blank"
                 rel="noopener"
               >
-                <button className="transition hover:scale-110 cursor-pointer p-2 opacity-60 hover:opacity-100 border border-zinc-500 rounded-md w-10 h-10 hover:bg-blue-500 hover:text-white">
+                <button className="transition-all hover:scale-110 duration-300 cursor-pointer p-2 shadow-sm border rounded-md w-10 h-10 hover:bg-blue-500 hover:text-white">
                   {item.icon}
                 </button>
               </Link>
