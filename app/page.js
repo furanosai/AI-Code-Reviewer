@@ -5,7 +5,7 @@ export default function Home() {
 
   return (
     <>
-      <main className="py-16">
+      <main>
         <Hero />
       </main>
     </>
