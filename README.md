@@ -55,7 +55,9 @@ Want to deploy your own version ?
 
 🔗 [Vercel Deployment Guide](https://vercel.com/docs/getting-started-with-vercel)
 
-## 📫 Contact
+## 📫 Connect
+
+Built with ❤️‍🩹 by Vinayak Gore
 
 For queries or feedback, feel free to connect : [@vinayakgore.vercel.app](https://vinayakgore.vercel.app)
 
