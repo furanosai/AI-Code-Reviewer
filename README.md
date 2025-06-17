@@ -33,15 +33,18 @@ npm run dev
 
 Then open http://localhost:3000 in your browser.
 
+
 ## 📁 Project Structure
 -	app/ : Routing and page setup (Next.js 15 App Router)
 -	components/ : Reusable UI elements (Editor, Output, Layout)
 -	lib/ : Utilities for Gemini API handling and prompt management
 -	styles/ : Tailwind + custom CSS
 
+
 ## 🧠 AI Integration
 
 Integrated with Google Gemini AI API, this tool takes your code input and returns structured suggestions and improvements. Useful for beginners, students, or anyone looking for AI-based feedback while coding.
+
 
 ## 🧪 Want to Learn More ?
 -	[Next.js Documentation](https://nextjs.org/docs)
@@ -49,11 +52,13 @@ Integrated with Google Gemini AI API, this tool takes your code input and return
 -	[Tailwind CSS Docs](https://tailwindcss.com/)
 -	[Google Gemini AI](https://deepmind.google/technologies/gemini/)
 
+
 ## 📤 Deploy Your Own
 
 Want to deploy your own version ?
 
 🔗 [Vercel Deployment Guide](https://vercel.com/docs/getting-started-with-vercel)
+
 
 ## 📫 Connect
 
