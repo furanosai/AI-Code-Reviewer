@@ -34,11 +34,23 @@ npm run dev
 Then open http://localhost:3000 in your browser.
 
 
-## 📁 Project Structure
--	app/ : Routing and page setup (Next.js 15 App Router)
--	components/ : Reusable UI elements (Editor, Output, Layout)
--	lib/ : Utilities for Gemini API handling and prompt management
--	styles/ : Tailwind + custom CSS
+## 🗂️ Important Folder Structure
+
+```bash
+├── app               # Contains Next.js App Router pages & logic
+├── components        # Reusable UI components (Editor, Buttons, Layouts)
+├── lib               # Utilities, helper functions, and Gemini API integration
+├── public            # Static assets (icons, favicons, etc.)
+├── .gitignore        # Git ignore rules
+├── README.md         # Project documentation
+├── components.json   # Component configuration
+├── eslint.config.mjs # ESLint configuration
+├── jsconfig.json     # JavaScript path aliasing
+├── next.config.mjs   # Next.js configuration
+├── package.json      # Project dependencies & scripts
+├── package-lock.json # Lock file for dependencies
+├── postcss.config.mjs# PostCSS configuration (for TailwindCSS)
+```
 
 
 ## 🧠 AI Integration
