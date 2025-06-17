@@ -67,8 +67,6 @@ Integrated with Google Gemini AI API, this tool takes your code input and return
 
 ## 📤 Deploy Your Own
 
-Want to deploy your own version of Stock-Manager ?
-
 You can easily deploy it using Vercel in just a few steps :
 
 
